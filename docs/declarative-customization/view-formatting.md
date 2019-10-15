@@ -5,6 +5,8 @@ ms.date: 08/21/2019
 localization_priority: Priority
 ---
 
+# NIKETS VIEW
+
 # Use view formatting to customize SharePoint
 
 You can use view formatting to customize how views in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a row is loaded in a list view and any styles to be applied to those elements. View formatting does not change the data in list items; it only changes how they're displayed to users who browse the list. Anyone who can create and manage views in a list can use view formatting to configure how views are displayed.
